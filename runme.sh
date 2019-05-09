@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "This is a sample script"
 echo "-----------------------"
 echo "Parameter equals $PARAMETER"
